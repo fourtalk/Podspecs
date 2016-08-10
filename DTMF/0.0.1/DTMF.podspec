@@ -11,7 +11,7 @@ s.author = { "Anthony Picciano" => "picciano@github.com" }
 
 s.license = { :type => "MIT" }
 s.homepage = "https://github.com/picciano/iOS-Tone-Generator"
-s.source = { :git => "https://github.com/picciano/iOS-Tone-Generator.git", :tag => "v#{s.version}"}
+s.source = { :git => "https://github.com/fourtalk/iOS-Tone-Generator.git", :tag => "v#{s.version}"}
 
 s.framework = "UIKit"
 
