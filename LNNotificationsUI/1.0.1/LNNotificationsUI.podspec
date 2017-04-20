@@ -11,7 +11,7 @@ s.author = { "Leo Natan" => "LeoNatan@github.com" }
 
 s.license = { :type => "MIT", :file => "LICENSE" }
 s.homepage = "https://github.com/LeoNatan/LNNotificationsUI"
-s.source = { :git => "https://github.com/LeoNatan/LNNotificationsUI.git", :tag => "v#{s.version}"}
+s.source = { :git => "https://github.com/fourtalk/LNNotificationsUI.git", :tag => "v#{s.version}"}
 
 s.framework = "UIKit"
 
