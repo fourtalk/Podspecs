@@ -6,7 +6,7 @@ s.name = "LNNotificationsUI"
 s.module_name = "LNNotificationsUI"
 s.summary = "LNNotificationsUI is a framework for displaying notifications similar to Apple's iOS 8 and iOS 9 notifications. It is meant to complement the native look and feel, by providing a pixel-accurate (as much as possible) recreation of the notifications."
 s.requires_arc = true
-s.version = "1.0.1"
+s.version = "1.0.2"
 s.author = { "Leo Natan" => "LeoNatan@github.com" }
 
 s.license = { :type => "MIT", :file => "LICENSE" }
